@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤔 I am a Front-end developer who want to become a full-stack developer in the future </br>
-🎓 I am currently studying Computer Science @ Silesian University of Technology. </br>
-:trophy:  I am also a strong chess player 1900 elo who represents @ Silesian University of Technology on turnaments.
+🤔 I am a Front-end developer who wants to become a full-stack developer in the future.
+🎓 I am currently studying Computer Science @ Silesian University of Technology.
+🏆 I am also a strong chess player 1900 elo who represents @ Silesian University of Technology in tournaments.
 
 ## Languages and Tools:
 

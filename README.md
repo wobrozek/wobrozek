@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/></a>  
 <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" alt="javascript" width="50" height="50"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>  </p>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wobrozek&show_icons=true&locale=en&layout=compact&theme=dark" alt="wobrozek" /></p>

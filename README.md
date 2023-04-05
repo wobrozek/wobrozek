@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 🤔 I am a Full-stack developer Django + React </br>
 🎓 I am currently studying Computer Science @ Silesian University of Technology. </br>
-🏆 I am also a strong chess player 1900 elo who represents @ Silesian University of Technology in tournaments.
+🏆 I am also a strong chess player 1900 raiting who represents @ Silesian University of Technology in tournaments.
 
 ## Languages and Tools:
 

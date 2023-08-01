@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🤔 I am a Full-stack developer Django + React </br>
+🤔 I am a passionate about .NET and React </br>
 🎓 I am currently studying Computer Science @ Silesian University of Technology. </br>
 🏆 I am also a strong chess player 1900 raiting who represents @ Silesian University of Technology in tournaments.
 
@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 
 <p align="left">
+  <a href="https://learn.microsoft.com/pl-pl/dotnet/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt="react" width="50" height="45"/> 
+  </a>
+  &nbsp;
+<a href="https://learn.microsoft.com/pl-pl/dotnet/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" alt="react" width="40" height="45"/> </a>&nbsp;
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="50" height="45"/> </a>
 <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="react" width="60" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="50" height="50"/> 
-<a/>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
 <a/>  
 <a href="https://docs.djangoproject.com/en/4.0/" target="_blank" rel="noreferrer">

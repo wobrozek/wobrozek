@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💼 I am currently SAP/ABAP Developer </br>
+🎓 I graduated from Silesian University of Technology in 2024 </br>
 🤔 I am a passionate about .NET and React </br>
-🎓 I am currently studying Computer Science @ Silesian University of Technology. </br>
-🏆 I am also a strong chess player 1900 raiting who represents @ Silesian University of Technology in tournaments.
+🏆 I am also a strong chess player who represents AZS Silesian University of Technology in tournaments.
 
 ## Languages and Tools:
 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 <!--
 SAP
 -->
-  <a href="https://learn.microsoft.com/pl-pl/dotnet/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.sap.com/poland/products/erp/what-is-sap-erp.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png" alt="react" width="95" height="45"/> 
   </a>
   &nbsp;
@@ -54,9 +55,10 @@ redux
 <!--
 type script
 -->
-<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> 
-  ![redux](https://github.com/wobrozek/wobrozek/assets/64639878/ef50c98e-8108-4f8f-aa8d-4e4829294345)
+<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer" margin-right:10px> 
+  <img src="https://titrias.com/files/2022/04/typescript.png" alt="typescript" width="50" height="50" />
 </a>
+  &nbsp;
 <!--
 docker
 -->

@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 💼 I am currently SAP/ABAP Developer </br>
 🎓 I graduated from Silesian University of Technology in 2024 </br>
-🤔 I am a passionate about .NET and React </br>
+🤔 I am a passionate about backend development </br>
 🏆 I am also a strong chess player who represents AZS Silesian University of Technology in tournaments.
 
 ## Languages and Tools:

@@ -31,7 +31,7 @@ SAP
 .net
 -->
   <a href="https://learn.microsoft.com/pl-pl/dotnet/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt="react" width="50" height="45"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt="C#" width="50" height="45"/> 
   </a>
   &nbsp;
 <!--

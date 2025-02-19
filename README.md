@@ -24,33 +24,27 @@ Here are some ideas to get you started:
 SAP
 -->
   <a href="https://www.sap.com/poland/products/erp/what-is-sap-erp.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png" alt="react" width="95" height="45"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png" alt="SAP" width="95" height="45"/> 
   </a>
   &nbsp;
 <!--
 .net
 -->
   <a href="https://learn.microsoft.com/pl-pl/dotnet/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt="C#" width="50" height="45"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/800px-Microsoft_.NET_logo.svg.png" alt=".NET" width="50" height="45"/> 
   </a>
   &nbsp;
 <!--
 c#
 -->
 <a href="https://learn.microsoft.com/pl-pl/dotnet/" target="_blank" rel="noreferrer"> 
-  <img src="https://seeklogo.com/images/C/csharp-logo-58C6C6F67A-seeklogo.com.png" alt="react" width="40" height="45"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="40" height="45"/> 
 </a>&nbsp;
   <!--
 react
 -->
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="50" height="45"/> 
-</a>
-<!--
-redux
--->
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="react" width="60" height="50"/> 
 </a>
 <!--
 type script
